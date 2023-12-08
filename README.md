@@ -1,2 +1,2 @@
 # jamespbyrne.com
-Personal Resume Website
+Personal resume website
